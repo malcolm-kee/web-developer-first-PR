@@ -6,7 +6,7 @@ Thanks for being willing to contribute!
 
 1. Fork and clone the repo
 1. Create a branch for your PR
-1. Add a html file in the `pages` folder with your name, e.g. `malcolm-kee.html`
+1. Add a html file in the `public` folder with your name, e.g. `malcolm-kee.html`
 1. Add a link to your page in `index.html`
 1. Create a Pull Request
 
